@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>go on Simon 的技术日记</title>
-    <link>https://simon0-o.com/categories/go/</link>
+    <link>https://simon0-o.github.io/categories/go/</link>
     <description>Recent content in go on Simon 的技术日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.com). All rights reserved.**</copyright>
-    <lastBuildDate>Tue, 12 Apr 2022 00:13:05 +0800</lastBuildDate><atom:link href="https://simon0-o.com/categories/go/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.github.io). All rights reserved.**</copyright>
+    <lastBuildDate>Tue, 12 Apr 2022 00:13:05 +0800</lastBuildDate><atom:link href="https://simon0-o.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang Heap Profile 解析</title>
-      <link>https://simon0-o.com/techs/go/golang-profile-heap/</link>
+      <link>https://simon0-o.github.io/techs/go/golang-profile-heap/</link>
       <pubDate>Tue, 12 Apr 2022 00:13:05 +0800</pubDate>
       
-      <guid>https://simon0-o.com/techs/go/golang-profile-heap/</guid>
+      <guid>https://simon0-o.github.io/techs/go/golang-profile-heap/</guid>
       <description>简单解析下 go 的 heap profile 中各字段的含义。</description>
     </item>
     

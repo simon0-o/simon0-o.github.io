@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Simon 的技术日记</title>
-    <link>https://simon0-o.com/categories/</link>
+    <link>https://simon0-o.github.io/categories/</link>
     <description>Recent content in Categories on Simon 的技术日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.com). All rights reserved.**</copyright>
-    <lastBuildDate>Tue, 12 Apr 2022 00:13:05 +0800</lastBuildDate><atom:link href="https://simon0-o.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.github.io). All rights reserved.**</copyright>
+    <lastBuildDate>Tue, 12 Apr 2022 00:13:05 +0800</lastBuildDate><atom:link href="https://simon0-o.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>go</title>
-      <link>https://simon0-o.com/categories/go/</link>
+      <link>https://simon0-o.github.io/categories/go/</link>
       <pubDate>Tue, 12 Apr 2022 00:13:05 +0800</pubDate>
       
-      <guid>https://simon0-o.com/categories/go/</guid>
+      <guid>https://simon0-o.github.io/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://simon0-o.com/categories/linux/</link>
+      <link>https://simon0-o.github.io/categories/linux/</link>
       <pubDate>Sun, 14 Oct 2018 17:05:02 +0800</pubDate>
       
-      <guid>https://simon0-o.com/categories/linux/</guid>
+      <guid>https://simon0-o.github.io/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ocr</title>
-      <link>https://simon0-o.com/categories/ocr/</link>
+      <link>https://simon0-o.github.io/categories/ocr/</link>
       <pubDate>Thu, 08 Feb 2018 00:40:39 +0800</pubDate>
       
-      <guid>https://simon0-o.com/categories/ocr/</guid>
+      <guid>https://simon0-o.github.io/categories/ocr/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>其他 on Simon 的技术日记</title>
+    <link>https://simon0-o.com/techs/other/</link>
+    <description>Recent content in 其他 on Simon 的技术日记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.com). All rights reserved.**</copyright>
+    <lastBuildDate>Thu, 08 Feb 2018 00:40:39 +0800</lastBuildDate><atom:link href="https://simon0-o.com/techs/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesseract Ocr</title>
+      <link>https://simon0-o.com/techs/other/tesseract-ocr/</link>
+      <pubDate>Thu, 08 Feb 2018 00:40:39 +0800</pubDate>
+      
+      <guid>https://simon0-o.com/techs/other/tesseract-ocr/</guid>
+      <description>Tesseract Ocr 使用记录</description>
+    </item>
+    
+  </channel>
+</rss>

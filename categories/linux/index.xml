@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on Simon 的技术日记</title>
-    <link>https://simon0-o.github.io/categories/linux/</link>
+    <link>https://simon0-o.com/categories/linux/</link>
     <description>Recent content in Linux on Simon 的技术日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.github.io). All rights reserved.**</copyright>
-    <lastBuildDate>Sun, 14 Oct 2018 17:05:02 +0800</lastBuildDate><atom:link href="https://simon0-o.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[渝ICP备2022004548号-1](https://beian.miit.gov.cn)
+
+**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.com). All rights reserved.**</copyright>
+    <lastBuildDate>Sun, 14 Oct 2018 17:05:02 +0800</lastBuildDate><atom:link href="https://simon0-o.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux 下内核进程、用户进程和轻量级进程（LWP）的理解</title>
-      <link>https://simon0-o.github.io/techs/linux/process-lwp/</link>
+      <link>https://simon0-o.com/techs/linux/process-lwp/</link>
       <pubDate>Sun, 14 Oct 2018 17:05:02 +0800</pubDate>
       
-      <guid>https://simon0-o.github.io/techs/linux/process-lwp/</guid>
+      <guid>https://simon0-o.com/techs/linux/process-lwp/</guid>
       <description>解析下 Linux 中内核进程、用户进程和轻量级进程（LWP）的区别和联系</description>
     </item>
     

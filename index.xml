@@ -5,11 +5,20 @@
     <link>https://simon0-o.github.io/</link>
     <description>Recent content on Simon 的技术日记</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh</language>
     <copyright>[渝ICP备2022004548号-1](https://beian.miit.gov.cn)
 
 **2022 &amp;#xA9;  [Simon0-o](https://simon0-o.com). All rights reserved.**</copyright>
-    <lastBuildDate>Tue, 12 Apr 2022 00:13:05 +0800</lastBuildDate><atom:link href="https://simon0-o.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Aug 2025 14:41:00 +0800</lastBuildDate><atom:link href="https://simon0-o.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>迁移 PV</title>
+      <link>https://simon0-o.github.io/techs/k8s/pv-migration/</link>
+      <pubDate>Fri, 15 Aug 2025 14:41:00 +0800</pubDate>
+      
+      <guid>https://simon0-o.github.io/techs/k8s/pv-migration/</guid>
+      <description>k8s 如何将 pv 从一个节点迁移到另一个节点。</description>
+    </item>
+    
     <item>
       <title>Golang Heap Profile 解析</title>
       <link>https://simon0-o.github.io/techs/go/golang-profile-heap/</link>

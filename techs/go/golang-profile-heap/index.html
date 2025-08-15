@@ -11,7 +11,7 @@
 <meta name="author" content="Simon Wang">
 <link rel="canonical" href="https://simon0-o.github.io/techs/go/golang-profile-heap/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.min.48a18943c2fc15c38a372b8dde1f5e5dc0bc64fa6cb90f5a817d2f8c76b7f3ae.css" integrity="sha256-SKGJQ8L8FcOKNyuN3h9eXcC8ZPpsuQ9agX0vjHa3864=" rel="preload stylesheet" as="style">
-<script defer crossorigin="anonymous" src="/assets/js/highlight.min.4dcb3c4f38462f66c6b6137227726f5543cb934cca9788f041c087e374491df2.js" integrity="sha256-Tcs8TzhGL2bGthNyJ3JvVUPLk0zKl4jwQcCH43RJHfI="
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.b95bacdc39e37a332a9f883b1e78be4abc1fdca2bc1f2641f55e3cd3dabd4d61.js" integrity="sha256-uVus3DnjejMqn4g7Hni&#43;Srwf3KK8HyZB9V4809q9TWE="
     onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://simon0-o.github.io/favicon/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://simon0-o.github.io/favicon/favicon-16x16.png">
@@ -115,7 +115,7 @@ if (!doNotTrack) {
   "keywords": [
     "go", "profile"
   ],
-  "articleBody": "Heap Profile 中 head 各字段的含义 一个标准的 heap profile 头如下所示：\nheapprofile in_use_object: in_use_space [alloc_object: alloc_space] @ stack_trace Heap Profile 中 heap 各字段的含义  HeapSys，从系统申请的用于 Heap 的内存大小 HeapInuse，正在使用的 Heap HeapIdle，没有使用的 Heap HeapSys = HeapInuse + HeapIdle HeapReleased, HeapIdle 中已经归还给 OS 的部分 HeapIdle - HeapReleased，可以归还给 OS 但是还没归还的部分 Sys - HeapReleased，由 Go 持有的内存 HeapAlloc，分配出去的（由用户持有的）Heap，包括 reachable 的和还没被 GC 到的 NextGC，下一次 GC 的阈值，当 HeapAlloc = NextGC 时就意味着即将 GC 了 LastGC，最近一次 GC 结束的时间戳  ",
+  "articleBody": "Heap Profile 中 head 各字段的含义 一个标准的 heap profile 头如下所示：\nheapprofile in_use_object: in_use_space [alloc_object: alloc_space] @ stack_trace Heap Profile 中 heap 各字段的含义 HeapSys，从系统申请的用于 Heap 的内存大小 HeapInuse，正在使用的 Heap HeapIdle，没有使用的 Heap HeapSys = HeapInuse + HeapIdle HeapReleased, HeapIdle 中已经归还给 OS 的部分 HeapIdle - HeapReleased，可以归还给 OS 但是还没归还的部分 Sys - HeapReleased，由 Go 持有的内存 HeapAlloc，分配出去的（由用户持有的）Heap，包括 reachable 的和还没被 GC 到的 NextGC，下一次 GC 的阈值，当 HeapAlloc \u003e= NextGC 时就意味着即将 GC 了 LastGC，最近一次 GC 结束的时间戳 ",
   "wordCount" : "247",
   "inLanguage": "zh",
   "datePublished": "2022-04-12T00:13:05+08:00",
@@ -214,7 +214,7 @@ if (!doNotTrack) {
     <div class="post-description">
       简单解析下 go 的 heap profile 中各字段的含义。
     </div>
-    <div class="post-meta"><span title='2022-04-12 00:13:05 +0800 HKT'>四月 12, 2022</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;Simon Wang&nbsp;|&nbsp;<a href="https://github.com/simon0-o/blog/tree/main/content/techs/go/golang-profile-heap.md" rel="noopener noreferrer" target="_blank">Suggest Changes</a>
+    <div class="post-meta"><span title='2022-04-12 00:13:05 +0800 CST'>四月 12, 2022</span>&nbsp;·&nbsp;1 分钟&nbsp;·&nbsp;Simon Wang&nbsp;|&nbsp;<a href="https://github.com/simon0-o/blog/tree/main/content/techs/go/golang-profile-heap.md" rel="noopener noreferrer" target="_blank">Suggest Changes</a>
 
 </div>
   </header> <div class="toc">
@@ -260,6 +260,11 @@ if (!doNotTrack) {
       <li><a href="https://simon0-o.github.io/tags/profile/">profile</a></li>
     </ul>
 <nav class="paginav">
+  <a class="prev" href="https://simon0-o.github.io/techs/k8s/pv-migration/">
+    <span class="title">« 上一页</span>
+    <br>
+    <span>迁移 PV</span>
+  </a>
   <a class="next" href="https://simon0-o.github.io/techs/linux/process-lwp/">
     <span class="title">下一页 »</span>
     <br>

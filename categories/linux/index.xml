@@ -4,20 +4,19 @@
     <title>Linux on Simon 的技术日记</title>
     <link>https://simon0-o.github.io/categories/linux/</link>
     <description>Recent content in Linux on Simon 的技术日记</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>zh</language>
-    <copyright>[渝ICP备2022004548号-1](https://beian.miit.gov.cn)
-
-**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.com). All rights reserved.**</copyright>
-    <lastBuildDate>Sun, 14 Oct 2018 17:05:02 +0800</lastBuildDate><atom:link href="https://simon0-o.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>渝 ICP 备 2022004548 号 -1
+2022 © Simon0-o. All rights reserved.
+</copyright>
+    <lastBuildDate>Sun, 14 Oct 2018 17:05:02 +0800</lastBuildDate>
+    <atom:link href="https://simon0-o.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux 下内核进程、用户进程和轻量级进程（LWP）的理解</title>
       <link>https://simon0-o.github.io/techs/linux/process-lwp/</link>
       <pubDate>Sun, 14 Oct 2018 17:05:02 +0800</pubDate>
-      
       <guid>https://simon0-o.github.io/techs/linux/process-lwp/</guid>
       <description>解析下 Linux 中内核进程、用户进程和轻量级进程（LWP）的区别和联系</description>
     </item>
-    
   </channel>
 </rss>

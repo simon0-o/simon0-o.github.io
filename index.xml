@@ -4,49 +4,47 @@
     <title>Simon 的技术日记</title>
     <link>https://simon0-o.github.io/</link>
     <description>Recent content on Simon 的技术日记</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>zh</language>
-    <copyright>[渝ICP备2022004548号-1](https://beian.miit.gov.cn)
-
-**2022 &amp;#xA9;  [Simon0-o](https://simon0-o.com). All rights reserved.**</copyright>
-    <lastBuildDate>Fri, 15 Aug 2025 14:41:00 +0800</lastBuildDate><atom:link href="https://simon0-o.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>渝 ICP 备 2022004548 号 -1
+2022 © Simon0-o. All rights reserved.
+</copyright>
+    <lastBuildDate>Thu, 30 Oct 2025 14:15:00 +0800</lastBuildDate>
+    <atom:link href="https://simon0-o.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于 DDD 的思考</title>
+      <link>https://simon0-o.github.io/techs/go/ddd/</link>
+      <pubDate>Thu, 30 Oct 2025 14:15:00 +0800</pubDate>
+      <guid>https://simon0-o.github.io/techs/go/ddd/</guid>
+      <description>记录下关于 DDD 的思考。</description>
+    </item>
     <item>
       <title>迁移 PV</title>
       <link>https://simon0-o.github.io/techs/k8s/pv-migration/</link>
       <pubDate>Fri, 15 Aug 2025 14:41:00 +0800</pubDate>
-      
       <guid>https://simon0-o.github.io/techs/k8s/pv-migration/</guid>
       <description>k8s 如何将 pv 从一个节点迁移到另一个节点。</description>
     </item>
-    
     <item>
       <title>Golang Heap Profile 解析</title>
       <link>https://simon0-o.github.io/techs/go/golang-profile-heap/</link>
       <pubDate>Tue, 12 Apr 2022 00:13:05 +0800</pubDate>
-      
       <guid>https://simon0-o.github.io/techs/go/golang-profile-heap/</guid>
       <description>简单解析下 go 的 heap profile 中各字段的含义。</description>
     </item>
-    
     <item>
       <title>Linux 下内核进程、用户进程和轻量级进程（LWP）的理解</title>
       <link>https://simon0-o.github.io/techs/linux/process-lwp/</link>
       <pubDate>Sun, 14 Oct 2018 17:05:02 +0800</pubDate>
-      
       <guid>https://simon0-o.github.io/techs/linux/process-lwp/</guid>
       <description>解析下 Linux 中内核进程、用户进程和轻量级进程（LWP）的区别和联系</description>
     </item>
-    
     <item>
       <title>Tesseract Ocr</title>
       <link>https://simon0-o.github.io/techs/other/tesseract-ocr/</link>
       <pubDate>Thu, 08 Feb 2018 00:40:39 +0800</pubDate>
-      
       <guid>https://simon0-o.github.io/techs/other/tesseract-ocr/</guid>
       <description>Tesseract Ocr 使用记录</description>
     </item>
-    
-    
-    
   </channel>
 </rss>
